@@ -1,6 +1,9 @@
 #pragma once
 #include "Service.h"
-#include <iostream>
+#include "pugixml.hpp"
+#include "Weather.h"
+//#include "pugiconfig.hpp"
+using namespace pugi;
 
 using namespace std;
 

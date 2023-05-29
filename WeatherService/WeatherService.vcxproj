@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="JsonService.cpp" />
+    <ClCompile Include="pugixml.cpp" />
     <ClCompile Include="Weather.cpp" />
     <ClCompile Include="WeatherService.cpp" />
     <ClCompile Include="XmlService.cpp" />
