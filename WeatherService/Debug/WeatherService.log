@@ -1,4 +1,3 @@
-﻿  Weather.cpp
-  WeatherService.cpp
-  Создание кода...
+﻿  JsonService.cpp
+D:\Users\class\Desktop\WS\WeatherService\json.hpp(21303): warning C4715: nlohmann::json_abi_v3_11_2::basic_json<std::map,std::vector,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,bool,__int64,unsigned __int64,double,std::allocator,nlohmann::json_abi_v3_11_2::adl_serializer,std::vector<unsigned char,std::allocator<unsigned char> > >::operator[]: значение возвращается не при всех путях выполнения
   WeatherService.vcxproj -> D:\Users\class\Desktop\WS\WeatherService\Debug\WeatherService.exe
